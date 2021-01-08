@@ -6,6 +6,7 @@
 
 - Echo
   - https://echo.labstack.com/guide
+  - デフォルトだと v3 がインポートされてしまうので、v4 になおしてください
 - クリーンアーキテクチャ
   - https://github.com/bxcodec/go-clean-arch
 - gorm
